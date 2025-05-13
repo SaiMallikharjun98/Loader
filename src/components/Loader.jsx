@@ -18,7 +18,7 @@ function Loader() {
         </div>
         <div className="mt-3 max-w-md mx-auto">
           <button
-            className="text-xl p-4 rounded-lg bg-violet-400 hover:bg-violet-500 cursor-pointer w-[150px] flex items-center gap-2 text-white"
+            className="text-xl p-4 rounded-lg bg-violet-400 hover:bg-violet-500 cursor-pointer w-[60%] flex items-center gap-2 text-white"
             onClick={loaderHandler}
           >
             Click Me!
