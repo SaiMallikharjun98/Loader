@@ -16,7 +16,7 @@ function Loader() {
             process or action is currently in progress.
           </p>
         </div>
-        <div className="mt-3">
+        <div className="mt-3 max-w-md mx-auto">
           <button
             className="text-xl p-4 rounded-lg bg-violet-400 hover:bg-violet-500 cursor-pointer w-[200px] flex items-center gap-2"
             onClick={loaderHandler}
